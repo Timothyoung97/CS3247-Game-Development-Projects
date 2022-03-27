@@ -8,6 +8,8 @@
 - This project explores the possibilities of the **Portal** game mechanics while incorporating knowledge learned from VarLab Lesson 3: Blueprint Communication and Lesson 5: Physics.
 - This project is further enhanced from mini-project 3 to incorporate **physics** mechanics into the game and to make the game more engaging to play.
 
+### Game Theme
+- Like a flash: Be like a flash and experience the ability to control time while zooming through the portals.
 ---
 
 ### Instructions
